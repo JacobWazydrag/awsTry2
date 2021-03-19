@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "awstry208298f23": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
