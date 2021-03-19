@@ -1,0 +1,7 @@
+type Artwork @model {
+  id: ID!
+  name: String!
+  description: String,
+  price: Float,
+  image: String
+}
